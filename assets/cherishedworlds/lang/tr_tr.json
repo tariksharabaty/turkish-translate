@@ -1,0 +1,7 @@
+{
+  "selectWorld.cherishedworlds.favorite": "Favorilere Ekle",
+  "selectWorld.cherishedworlds.unfavorite": "Favorilerden Kaldır",
+  "gui.cherishedworlds.config.backupWorldType": "Daha yeni bir Minecraft sürümüyle yüklendiğinde hangi dünyaların yedekleme uyarısı vereceğini belirler.",
+  "gui.narrate.cherishedworlds.favorite": "%s Favorilere Eklensin",
+  "gui.narrate.cherishedworlds.unfavorite": "%s Favorilerden Kaldırılsın"
+}

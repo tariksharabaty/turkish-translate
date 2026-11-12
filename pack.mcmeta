@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "◆ 1.0.1\n",
+        "color": "#0087B4"
+      },
+      {
+        "text": "◆ Oidioom Studio",
+        "color": "#808080"
+      }
+    ],
+    "min_format": 84,
+    "max_format": 999
+  }
+}
