@@ -27,6 +27,12 @@ A resource pack that adds and improves Turkish translations for 25+ popular mods
 - Consistent, natural wording
 - Drop-in resource pack — just enable it
 
+## 📸 Screenshots · Ekran Görüntüleri
+
+<table>
+<tr><td align="center"><img src=".github/screenshots/screenshot-1.png" width="400" alt="In-game screenshot"></td></tr>
+</table>
+
 ### 📥 Installation
 
 1. Download from **[Modrinth](https://modrinth.com/resourcepack/turkish-translate)** or the [Releases](../../releases/latest) page.
